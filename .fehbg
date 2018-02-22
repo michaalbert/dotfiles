@@ -1,0 +1,2 @@
+#!/bin/sh
+'feh' '--no-xinerama' '--bg-max' '/home/nope/.wallpaper.png' 
